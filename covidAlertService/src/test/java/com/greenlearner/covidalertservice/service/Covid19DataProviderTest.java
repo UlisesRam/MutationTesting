@@ -98,7 +98,8 @@ import static org.mockito.Mockito.when;
         summaryData.setDischarged(1);
         summaryData.setConfirmedCasesIndian(90);
         summaryData.setConfirmedCasesForeign(10);
-        summaryData.setUpdateTime(ZonedDateTime.now());
+        summaryData.setUpdateTime(ZonedDateTime.now());]
+        /* solving returns of CovidApiData.java L27, L35 */
         summaryData.setConfirmedButLocationUnidentified(5);
 
         countryData.setSummary(summaryData);
