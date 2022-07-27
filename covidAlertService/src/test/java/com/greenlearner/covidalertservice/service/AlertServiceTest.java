@@ -16,7 +16,7 @@ import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
 
 /**
- * @author - GreenLearner(https://www.youtube.com/c/greenlearner)
+ *
  */
 class AlertServiceTest {
 
